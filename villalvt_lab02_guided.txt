@@ -1,0 +1,8 @@
+Theodore Villalva . Basically created a vim file and then put in some stuff then saved it then copied the file unto my desktop as a txt file.
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+:wq
